@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-app"]=this["webpackJsonpreact-app"]||[]).push([[0],{4:function(e,t,c){"use strict";c.r(t);c(0);var a=c(2),n=c.n(a),p=c(3),r=Object(p.jsx)("h1",{children:"Hello, React!!!!"});n.a.render(r,document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.94fe3991.chunk.js.map
